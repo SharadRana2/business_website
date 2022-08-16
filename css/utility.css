@@ -1,0 +1,35 @@
+.text-primary{
+    color: #28a745;
+}
+.text-secondary{
+    color: #0284d0;
+}
+.btn{
+    background-color: #28a745;
+    color: #fff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    display: inline-block;
+
+}
+.btn:hover{
+    opacity: 0.9;
+}
+.blog-btn{
+    border: #fff solid 1px;
+    padding: 10px 20px;
+    border-radius: 5px;
+}
+
+.bg-green{
+    background-color: #28a745;
+    color: #fff;
+}
+.bg-light{
+    background-color: #fff;
+    color: #333;
+}
+.bg-dark{
+    background-color: #333;
+    color: #fff;
+}
